@@ -64,10 +64,9 @@
 - Bedrock Edition Version
 
 ###### Suggesting features or contributing to the project
-- Feel free to open pull requests or fork this project.
+- Feel free to open pull requests or fork this project, if you want something to be added.
 
 ###### Images
- ![Cherry Wood](https://github.com/dylbinthedev/0txPack/blob/main/2021-07-12_16.37.42.png)
  ![Crimson Wood](https://github.com/dylbinthedev/0txPack/blob/main/2021-07-12_16.39.24.png)
  ![Netherite Armor Model](https://github.com/dylbinthedev/0txPack/blob/main/2021-07-12_16.37.15.png)
 
