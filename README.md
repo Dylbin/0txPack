@@ -17,7 +17,7 @@
 
 - This does not support Minecraft Versions 1.7 - 1.12.2 since the resource pack needs to be structured in a different way and alot of textures needs to be renamed. But an 1.7 - 1.12.2 version is coming soon.
 
-- This resource pack will be bundled with 0tx.org aswell as 9tx.org when they release.
+- This resource pack will be bundled with 9tx.org and 0tx when it opens.
 
 - Having missing textures or bugs? Open an issue on the issues tab or contact me through discord, forums or on the servers.
 
